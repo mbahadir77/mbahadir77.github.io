@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>  Basit Web Sitesi 1.0</title> 
+	</head>
+	<body>
+		<div align="center">
+			<h1>Welcome to Yıldırım Technologies</h1>
+		</div>
+	 
+	<h2>Hizmetlerimiz:</h2>
+	<p> <strong>1.Uygulama Tasarımı <br> </strong> <em>2.Web Tasarımı <br> </em>
+	3.Siber Güvenlik</p>	
+	<h2><strong>Bizden Hizmet Alın</strong>:</h2>
+	<br>
+	<form>
+		<div align="center">
+			<label>Kullanıcı Adınız:</label>
+			<input type="KUllanıcı Adı" placeholder="Kullanıcı Adınız...">			
+		</div>
+		<br>
+		<div align="center">
+			<label>Şifreniz</label>			
+			<input type="password" name="Şifreniz" placeholder="Şifrenizi Giriniz..."> 
+		</div>
+		<div align="center">
+		<button>Kaydol </button>
+		</div>
+		<div align="center">
+		</form>
+	<br>
+	<a target= 'blank'href="galeri.html">GALERİ</a>
+	<br>
+	<a target= 'blank' href="İletişim.html" >İLETİŞİM</a>
+	
+	
+		</div>
+		<footer align="center">
+			<p>Developed By Bahadır Yıldırım</p>
+		</footer>
+		
+		
+	
+
+</html>
